@@ -1,10 +1,10 @@
 <?php
 /**
- * Created by JetBrains PhpStorm.
+ * Created by liuyang.
  * User: liuyang
  * Date: 13-5-16
  * Time: 下午5:07
- * To change this template use File | Settings | File Templates.
+ * 需要加载一些js,例如Jquery,highcharts
  */
 
 class Highcharts{
