@@ -4,7 +4,7 @@
  * User: liuyang
  * Date: 13-5-16
  * Time: 下午5:07
- * 需要加载一些js,例如Jquery,highcharts
+ * 需要加载一些js,例如Jquery,highcharts或者highstock
  */
 
 class Highcharts{
